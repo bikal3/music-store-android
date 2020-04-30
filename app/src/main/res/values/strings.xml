@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToneStore</string>
+    <string name="text">"By Clicking SignUp,I agree to accept ToneStore's <b>Terms of Use </b>and <b>Privacy Policy</b> ,including the processing of my personal data for access to the ToneStore marketplace, and for ads</string>
+    <string name="detailtext">Intellijel Shapeshifter Eurorack Wavetable VCO Module</string>
+    <string name="feedtext">Add searches, shops and collections to your feed as you browse Reverb. Related listings will show here as they are added. Lets start your feed with some listings you might like.</string>
+    <string name="destext">Cylonix and Intellijel have collaborated to bring you a very sophisticated and deeply complex Wavetable VCO. At the core of this module is very powerful FPGA board that he has pushed to the absolute max of its capabilities and crammed full of features. We wanted to create a module that really worked well in the modular context so there are a lot of modulation and control possibilities.Features at a glance:preset sequencing and morphingextremely high resolution TZFMdelay based resonator,64 band vocoder modespecial audiorate modulation modes (MOD A)analog wavefolderextensive sync, pulse and modB optionsdetuneable 8 note chords and tons moreWAVETABLESEach VCO can select from 128 banks of wavetables , each with 8 individual 512-sample waveforms for a total of 1024 waves.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_session">USER_SESSION</string>
+    <string name="sub_total">SUB_TOTAL</string>
+    <string name="map_key" translatable="false">
+        AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo
+    </string>
+</resources>
